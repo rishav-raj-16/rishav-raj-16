@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Rishav Raj — Java, automation, quality</title>
+<desc id="desc">Dark futuristic circuits in violet and cyan. Rishav Raj. Software, built with intent.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#090D1B"/><stop offset="1" stop-color="#17152D"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#A78BFA"/><stop offset="1" stop-color="#67E8F9"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#7C3AED" stop-opacity=".23"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#818CF8" stroke-opacity=".07"/></pattern>
+</defs>
+<rect x="1" y="1" width="1198" height="358" rx="20" fill="url(#bg)" stroke="#30304B"/>
+<rect x="1" y="1" width="1198" height="358" rx="20" fill="url(#grid)"/>
+<ellipse cx="954" cy="170" rx="290" ry="230" fill="url(#halo)"/>
+<path d="M28 1H510" stroke="url(#accent)" stroke-width="3"/>
+<g font-family="'Segoe UI', Arial, sans-serif">
+<rect x="54" y="47" width="212" height="29" rx="14" fill="#A78BFA" fill-opacity=".09" stroke="#A78BFA" stroke-opacity=".28"/>
+<circle cx="71" cy="61" r="3" fill="#67E8F9"/>
+<text x="84" y="66" font-size="11" letter-spacing="2" fill="#D0C7FA">RISHAV-RAJ-16 / GITHUB</text>
+<text x="51" y="155" font-size="72" font-weight="700" letter-spacing="-3" fill="#F1F0FF">Rishav <tspan fill="#B69CFF">Raj.</tspan></text>
+<text x="55" y="201" font-size="25" fill="#CCCBE2">Software, built with intent.</text>
+<path d="M55 231H560" stroke="#37334E"/>
+<text x="55" y="265" font-size="13" letter-spacing="3" fill="#67E8F9">JAVA</text>
+<circle cx="118" cy="260" r="2" fill="#6B637F"/>
+<text x="137" y="265" font-size="13" letter-spacing="3" fill="#C4B5FD">AUTOMATION</text>
+<circle cx="281" cy="260" r="2" fill="#6B637F"/>
+<text x="300" y="265" font-size="13" letter-spacing="3" fill="#C4B5FD">QUALITY</text>
+<text x="55" y="316" font-size="11" letter-spacing="1.7" fill="#83839D">CURIOSITY → CODE → CONFIDENCE</text>
+</g>
+<g fill="none" stroke-width="1.3">
+<path d="M689 79H790L833 122H858M723 278H790L832 236H858M1105 81H1045L1004 122H979M1130 270H1044L1003 229H979M693 179H857M980 179H1148" stroke="#A78BFA" stroke-opacity=".4"/>
+<path d="M770 43V89L850 169M1067 316V270L989 192M734 224H806L852 179M1092 134H1025L982 179" stroke="#67E8F9" stroke-opacity=".27"/>
+<rect x="829" y="89" width="180" height="180" rx="29" stroke="#A78BFA" stroke-opacity=".22" transform="rotate(12 919 179)"/>
+<rect x="847" y="107" width="144" height="144" rx="21" stroke="url(#accent)" stroke-opacity=".65"/>
+<rect x="860" y="120" width="118" height="118" rx="13" fill="#101427" stroke="#A78BFA" stroke-opacity=".3"/>
+<path d="M881 107V95M906 107V95M932 107V95M957 107V95M881 251V263M906 251V263M932 251V263M957 251V263M847 141H835M847 166H835M847 192H835M847 217H835M991 141H1003M991 166H1003M991 192H1003M991 217H1003" stroke="#9F8ADA"/>
+<path d="M896 160L877 179L896 198M942 160L961 179L942 198M928 151L910 207" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g fill="#67E8F9"><circle cx="689" cy="79" r="3"/><circle cx="723" cy="278" r="3"/><circle cx="1148" cy="179" r="3"/><circle cx="1067" cy="316" r="3"/></g>
+<g fill="#B69CFF"><circle cx="1105" cy="81" r="3"/><circle cx="1130" cy="270" r="3"/><circle cx="693" cy="179" r="3"/><circle cx="770" cy="43" r="3"/></g>
+<text x="856" y="302" font-family="Consolas, monospace" font-size="11" letter-spacing="3" fill="#9690B7">&lt; BUILD / LEARN &gt;</text>
+</svg>
